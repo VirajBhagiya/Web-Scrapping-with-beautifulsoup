@@ -2,6 +2,7 @@
 
 1. HotelScrap
 Scraped data of diffrent hotels accroding to the input of the user.
+   
    Website:- Booking.com
 
 2. NewsScrap
