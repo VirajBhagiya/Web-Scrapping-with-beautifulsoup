@@ -2,10 +2,10 @@
 
 1. HotelScrap.py 
 
-Scraped data of diffrent hotels accroding to the input of the user.
+   Scraped data of diffrent hotels accroding to the input of the user.
 
-Website:- Booking.com
+   Website:- Booking.com
 
 2. NewsScrap.py 
 
-News scraped from Google News on different Fields.
+   News scraped from Google News on different Fields.
