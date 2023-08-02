@@ -1,4 +1,4 @@
-# Web-Scrap
+# Web-Scrapping-with-beautifulsoup
 
 1. HotelScrap.py 
 
